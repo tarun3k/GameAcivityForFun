@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GameAcivityForFun</string>
+    <string name="game_selection_title">Select a Game</string>
+    <string name="chess_game">Chess</string>
+    <string name="play_with_robot">Play with Robot</string>
+    <string name="play_with_nearby">Play with Nearby Person</string>
+    <string name="chess_title">Chess Game</string>
+    <string name="your_turn">Your Turn</string>
+    <string name="opponent_turn">Opponent\'s Turn</string>
+    <string name="check">Check!</string>
+    <string name="checkmate">Checkmate!</string>
+    <string name="you_won">You Won!</string>
+    <string name="you_lost">You Lost!</string>
+    <string name="draw">Draw!</string>
+    <string name="searching_nearby">Searching for nearby players...</string>
+    <string name="advertising">Waiting for opponent...</string>
+    <string name="connected">Connected!</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="new_game">New Game</string>
+    <string name="back">Back</string>
+</resources>
