@@ -120,16 +120,15 @@ cd GameAcivityForFun
 
 Watch the demo video to see the game in action:
 
-<div align="center">
-  <video width="80%" controls autoplay muted loop>
-    <source src="demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+https://github.com/user-attachments/assets/1d748d28-7e2b-4262-9d81-886dc11fc5f7
+
 
 ## 📸 Screenshots
 
 *Screenshots coming soon*
+
+
+
 
 ## 🎮 Game Features in Detail
 
